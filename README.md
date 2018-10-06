@@ -5,10 +5,10 @@ Dynamic web app that graphs my app usage behavior trends
 A series of jupyter notebooks documenting my sandbox learning approach of pandas and altair
 
 ## TODO
-### Phase 1 (in progress)
+### Phase 1 (Complete)
 Round out my knowledge of pandas dataframes and altair to create a chart that shows the weekly view of one app's cumulative hours opened per hour.
 
-### Phase 2
+### Phase 2 (Complete)
 Add a route to a Flask app that allows the chart to be displayed in the browser
 
 ### Phase 3
